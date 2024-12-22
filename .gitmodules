@@ -1,0 +1,3 @@
+[submodule "tests"]
+	path = tests
+	url = https://gitlab.cs.washington.edu/cse493x-24sp/cse493x-24sp-tests.git
